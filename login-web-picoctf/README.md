@@ -1,3 +1,8 @@
+---
+title: ctf-writeups
+
+---
+
 # ctf-writeups
 Write-ups and notes for Capture The Flag (CTF) challenges
 ## 🧩 Challenge: login - picoCTF - Web
