@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# 🧩 Challenge: Impossible Puzzle
+#  Challenge: Impossible Puzzle
 
 - **Category:** [ Web ]
 - **Difficulty:** [Easy ]
@@ -8,7 +8,7 @@
 
 ---
 
-## 📖 Mô tả | Description
+##  Mô tả | Description
 
 **🇻🇳 Tiếng Việt:**  
 Hãy nhập 2 chuỗi A và B. Nếu nó bằng nhau về nội dung nhưng khác nhau trong độ dài, thì sẽ lấy được flag!
@@ -68,7 +68,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 ---
 
-## 🎯 Mục tiêu | Goal
+##  Mục tiêu | Goal
 
 **🇻🇳:**
 - Làm cho `A == B` nhưng `strlen(A) != strlen(B)`
@@ -79,7 +79,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 ---
 
-## 🧠 Ý tưởng chính | Key Idea
+##  Ý tưởng chính | Key Idea
 
 **🇻🇳:**  
 [Tóm tắt ý tưởng giải bài trong 1–2 dòng]
@@ -89,7 +89,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 ---
 
-## 🔍 Phân tích | Analysis
+##  Phân tích | Analysis
 
 ### 1. Quan sát ban đầu | Initial Observation
 
@@ -140,7 +140,7 @@ Vấn đề: Loose Comparison
 
 ---
 
-## 🚀 Khai thác | Exploitation
+##  Khai thác | Exploitation
 
 ### Payload / Attack
 
@@ -149,7 +149,7 @@ Chỉ đơn giản nhập A = number random, B = A + 'space'
 For example: A = '12' , B = '12 ' space is special
 ```
 =======
-# 🧩 Challenge: Impossible Puzzle
+#  Challenge: Impossible Puzzle
 
 - **Category:** [ Web ]
 - **Difficulty:** [Easy ]
